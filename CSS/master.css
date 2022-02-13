@@ -1,0 +1,54 @@
+body {
+  background-color: rgb(80, 77, 77);
+}
+.global {
+  font-family: "Merriweather";
+  margin: auto;
+  width: max-content;
+  height: 1200px;
+  background-color: #fff;
+  padding: 40px;
+  align-self: center;
+}
+.left-div {
+  margin: auto;
+  padding: 20px;
+  float: left;
+  width: 500px;
+}
+.right-div {
+  padding: 20px;
+  float: left;
+  width: 250px;
+}
+h3 {
+  color: rgb(68, 68, 245);
+  font-size: 15px;
+}
+.p2 {
+  color: rgb(75, 75, 78);
+  font-size: small;
+}
+.item {
+  font-size: medium;
+  margin-top: 20px;
+  padding: 0;
+}
+li {
+  font-size: smaller;
+  padding: 0px;
+  margin: 0px;
+}
+.sub-item {
+  font-size: smaller;
+  padding: 0px;
+  margin: 0px;
+}
+p {
+  margin: 0;
+  padding: 0;
+}
+ul {
+  padding-top: 0;
+  margin: 0;
+}
